@@ -23,7 +23,7 @@ A continuación se muestra el modelo de datos utilizado en el dashboard de venta
 
 El modelo de datos representa la estructura subyacente de la tienda en línea, proporcionando una representación visual de las entidades y relaciones clave. Este modelo es esencial para comprender cómo se organizan y relacionan los diferentes elementos de los datos utilizados en el dashboard.
 
-El modelo de datos incluye entidades como productos, clientes, productos,categorías,devoluciones(reembolso) y muestra las relaciones entre ellos. Por ejemplo, permite visualizar cómo los productos están relacionados con las categorías de productos, y cómo se registran los ingresos generados por cada venta.
+El modelo de datos incluye entidades como productos, clientes,categorías,devoluciones(reembolso) y muestra las relaciones entre ellos. Por ejemplo, permite visualizar cómo los productos están relacionados con las categorías, y cómo se registran los ingresos generados por cada venta.
 
 ## Dashboard
 A continuación se muestra una captura de pantalla del dashboard de ventas en línea:
