@@ -29,8 +29,8 @@ El modelo de datos incluye entidades como productos, clientes,categorías,devolu
 A continuación se muestra una captura de pantalla del dashboard de ventas en línea:
 
 ![Captura de pantalla 1](https://i.imgur.com/PIcZaln.png)
-_La captura de pantalla del dashboard muestra una visualización completa de las ventas en línea, con gráficos de tarta y líneas que representan las ventas por categorías de productos, segmentos de clientes y períodos de tiempo. Además, se incluyen tabla con datos detallados, como las últimas órdenes y su estado, las ventas generadas, cantidad y los costos.
+La captura de pantalla del dashboard muestra una visualización completa de las ventas en línea, con gráficos de tarta y líneas que representan las ventas por categorías de productos, segmentos de clientes y períodos de tiempo. Además, se incluye tabla con datos detallados, como las últimas órdenes y su estado, las ventas generadas, cantidad y los costos.
 
 Proporciona una visión general rápida y concisa de los principales indicadores de rendimiento de la tienda en línea. Permite al usuario analizar el desempeño actual en comparación con el día anterior, lo que ayuda en la toma de decisiones para mejorar los indicadores clave.
 
-Con esta herramienta, es posible evaluar fácilmente el rendimiento diario de la tienda, identificar tendencias y patrones de venta, y tomar acciones estratégicas para impulsar el crecimiento y la mejora de los resultados.._
+Con esta herramienta, es posible evaluar fácilmente el rendimiento diario de la tienda, identificar tendencias y patrones de venta, y tomar acciones estratégicas para impulsar el crecimiento y la mejora de los resultados.
