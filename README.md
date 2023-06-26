@@ -11,7 +11,7 @@ Este repositorio contiene un dashboard interactivo de ventas en línea desarroll
 
 2. Instala QlikView: Si aún no tienes instalado QlikView en tu computadora, descarga e instala la versión adecuada para tu sistema operativo desde el sitio web oficial de QlikView.
 
-![Sitio web oficial de QlikView](https://i.imgur.com/PIcZaln.png)
+
 
 
 3. Abre el archivo QlikView: Una vez que hayas descargado el archivo QlikView, ábrelo con QlikView Desktop para explorar el dashboard interactivo.
@@ -22,7 +22,7 @@ Este repositorio contiene un dashboard interactivo de ventas en línea desarroll
 
 A continuación se muestra una captura de pantalla del dashboard de ventas en línea:
 
-![Captura de pantalla 1](https://imgur.com/PIcZaln)
+![Captura de pantalla 1](https://i.imgur.com/PIcZaln.png)
 _Descripción de la captura de pantalla 1._
 
 ![Captura de pantalla 2](captura2.png)
