@@ -21,7 +21,7 @@ Este repositorio contiene un dashboard interactivo de ventas en línea desarroll
 
 A continuación se muestra una captura de pantalla del dashboard de ventas en línea:
 
-![Captura de pantalla 1]([captura1.png](https://imgur.com/PIcZaln))
+![Captura de pantalla 1](https://imgur.com/PIcZaln)
 _Descripción de la captura de pantalla 1._
 
 ![Captura de pantalla 2](captura2.png)
