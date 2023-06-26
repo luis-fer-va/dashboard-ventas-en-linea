@@ -16,8 +16,6 @@ Este repositorio contiene un dashboard interactivo de ventas en línea desarroll
 ## Descripción: 
 Como parte de mi experiencia en análisis de datos y visualización, he desarrollado un dashboard de ventas en línea que proporciona una visión detallada del rendimiento de una tienda en línea de ropa, zapatos y otros productos. Este dashboard fue creado utilizando QlikView, una herramienta líder en el campo del análisis empresarial y la inteligencia de negocios.
 
-## Capturas de pantalla
-
 ## Modelo de Datos
 A continuación se muestra el modelo de datos utilizado en el dashboard de ventas en línea:
 
